@@ -1,0 +1,20 @@
+{
+  "name": "codemirror-xml-mode-example",
+  "repo": "benatkin/codemirror-xml-mode-example",
+  "description": "an example for the CodeMirror XML mode",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "benatkin/codemirror": "*",
+    "benatkin/codemirror-mode-xml": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "demo.js"
+  ],
+  "styles": [
+    "demo.css"
+  ],
+  "main": "demo.js"
+}

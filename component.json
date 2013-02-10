@@ -1,0 +1,13 @@
+{
+  "name": "codemirror-mode-xml",
+  "repo": "benatkin/codemirror-mode-xml",
+  "description": "an XML mode for CodeMirror",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

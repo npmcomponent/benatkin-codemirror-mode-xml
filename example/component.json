@@ -1,6 +1,6 @@
 {
-  "name": "codemirror-xml-mode-example",
-  "repo": "benatkin/codemirror-xml-mode-example",
+  "name": "codemirror-mode-xml-example",
+  "repo": "benatkin/codemirror-mode-xml-example",
   "description": "an example for the CodeMirror XML mode",
   "version": "0.0.1",
   "keywords": [],
